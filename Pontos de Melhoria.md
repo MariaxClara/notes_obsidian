@@ -17,3 +17,5 @@ Principais problemas encontrados:
 	Interação com links e botões por meio das setas dos teclados
 	Verificação (nem sempre verificava o que o step dizia: Verify field colours are displayed)
 	Poderia ter juntado alguns steps e diminuido o tamanho do teste
+
+Diminuir os sleeps dentro de cada teste, pensar em alguma forma de esperar a pagina carregar

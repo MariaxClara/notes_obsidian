@@ -9,3 +9,9 @@ AHUW-4434
 	Arrumar o Mês do slot quota settings - Precisa ter slots disponíveis
 	Conferir sempre as pre-conditions
 
+
+
+EAP = Faturamento, Nota Fiscal, Supply Chain
+Anaplan = Manufacturing
+Vineti = Capacidade
+
